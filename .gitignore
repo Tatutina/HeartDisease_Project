@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+*.py[co]
+.DS_Store
+.ipynb_checkpoints/
+*.csv
+*.tsv
+*.pkl
+*.png
+*.pdf
+/content/
+
